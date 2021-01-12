@@ -1,5 +1,7 @@
 # siyeonkim   
 
+Hi. My name is Kim Siyeon. I am student developer.
+
 #project
 |  <center>Year</center> |  <center>Project Name</center> |  <center>Process</center> |
 |:--------|:--------:|--------:|
