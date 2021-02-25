@@ -11,7 +11,7 @@ Sql,Java,C,
 |  <center>Year</center> |  <center>Activity Name</center> | <center>Process</center> |
 |:--------|:--------:|--------:|
 |<center>2019<center> | <center>**한신대학교 사회봉사단 HAHA**</center> |<center>finish</center>|
-|<center>2020.03.01~2021.02.28<center> | <center>**HCI .Lab 학부연구생**</center> |<center>in progress:muscle:</center>|
+|<center>2020.05.01~2021.02.28<center> | <center>**HCI .Lab 학부연구생**</center> |<center>in progress:muscle:</center>|
 |<center>2020.09.01~2020.12.15<center> | <center>**한신대학교 취업서포터즈활동**</center> |<center>finish</center>|
 |<center>2020.09.01~2021.02.22<center>|**한신대학교 모니터링단 교육혁신사업부 활동** <center>|<center>in progress:muscle:</center>|
 |<center>2021.01.11~<center> | <center>**CS50 study https://bit.ly/3isOYRH**</center> |<center>in progress:muscle:</center>|
