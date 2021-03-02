@@ -31,7 +31,7 @@ Sql,Java,C,
 |  <center>Year</center> |  <center>Study Name</center> |  <center>Process</center> |
 |:--------|:--------:|--------:|
 |<center>2021.01.15~<center> | <center>**Do it JAVA Algorithms**</center> |<center>in progress:muscle:</center>|
-|<center>2021.01.11~<center> | <center>**모두를 위한 컴퓨팅사고**</center> |<center>in progress:muscle:</center>|
+|<center>2021.01.11~2021.02.26<center> | <center>**모두를 위한 컴퓨팅사고**</center> |<center>finish</center>|
 
 
 
