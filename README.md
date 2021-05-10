@@ -16,6 +16,7 @@ Sql,Java,C,
 |<center>2020.09.01~2021.02.22<center>|**한신대학교 모니터링단 교육혁신사업부 활동** <center>|<center>finish</center>|
 |<center>2021.01.11~2021.02.26<center> | <center>**CS50 study https://bit.ly/3isOYRH**</center> |<center>finish</center>|
 |<center>2021.04.01~2021.06.28<center> | <center>**HCI .Lab 학부연구생**</center> |<center>in progress:muscle:</center>|
+|<center>2021.05.01~2021.12.31<center> | <center>**한신대학교 모니터링 기자단**</center> |<center>in progress:muscle:</center>|
 
 :heart:Project   
 |  <center>Year</center> |  <center>Project Name</center> |  <center>Process</center> |
