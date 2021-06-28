@@ -17,6 +17,7 @@ Sql,Java,C,
 |<center>2021.01.11~2021.02.26<center> | <center>**CS50 study https://bit.ly/3isOYRH**</center> |<center>finish</center>|
 |<center>2021.04.01~2021.06.28<center> | <center>**HCI .Lab 학부연구생**</center> |<center>in progress:muscle:</center>|
 |<center>2021.05.01~2021.12.31<center> | <center>**한신대학교 모니터링 기자단**</center> |<center>in progress:muscle:</center>|
+|<center>2021.06.28~<center>|**데이터청년캠퍼스 - 경기대학교 산업빅데이터 분석 전문가 과정** |<center>in progress:muscle:<center>|
 
 :heart:Project   
 |  <center>Year</center> |  <center>Project Name</center> |  <center>Process</center> |
@@ -28,7 +29,7 @@ Sql,Java,C,
 |<center>2020.12.30~2021.01.06 <center>|**인공지능 학습용 데이터 활용 아이디어 공모전** |<center>finish<center>|
 |<center>2021.01.12~2021.02.05 <center>|**링글 제 1회 서비스기획 공모전** |<center>finish<center>|
 |<center>2021.02.15~2021.02.22 <center>|**한신 ABC 캠프 공모전** |<center>finish:trophy:<center>|
-|<center>2021.05.01~2021.05.30 <center>|**한신대학교 AI, 빅데이터 활용 공모전-분리수거** |<center>finish<center>|
+|<center>2021.05.01~2021.05.30 <center>|**한신대학교 AI, 빅데이터 활용 공모전-분리수거** |<center>finish:trophy:<center>|
 |<center>2021.03.01~2021.06.01 <center>|**database programming - cgv_hs** |<center>finish<center>|
   
 :heart:Study
