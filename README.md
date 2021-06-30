@@ -3,10 +3,10 @@
 Hi. My name is Kim Siyeon. I am student developer.   
 
 
-:heart:Major
+:heart:Major\
 Computer Engineer
 
-:heart:Useable language
+:heart:Useable language\
 Sql,Java,C,
 
 
