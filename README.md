@@ -34,13 +34,14 @@ Sql,Java,C,
 |<center>2021.02.15~2021.02.22 <center>|**한신 ABC 캠프 공모전** |<center>finish:trophy:<center>|
 |<center>2021.05.01~2021.05.30 <center>|**한신대학교 AI, 빅데이터 활용 공모전-분리수거** |<center>finish:trophy:<center>|
 |<center>2021.03.01~2021.06.01 <center>|**database programming - cgv_hs** |<center>finish<center>|
-|<center>2021.07.02~<center>|**한신대학교 여름하계프로젝트 - DB 웹 페이지 구축** |<center>in progress:muscle:<center>|
+|<center>2021.07.02~<center>|**한신대학교 여름하계프로젝트 - spring을 이용한 웹 페이지 구축** |<center>in progress:muscle:<center>|
   
 :heart:Study
 |  <center>Year</center> |  <center>Study Name</center> |  <center>Process</center> |
 |:--------|:--------:|--------:|
-|<center>2021.01.15~<center> | <center>**Do it JAVA Algorithms**</center> |<center>in progress:muscle:</center>|
+|<center>2021.01.15~2021.06.30<center> | <center>**Do it JAVA Algorithms**</center> |<center>finish</center>|
 |<center>2021.01.11~2021.02.26<center> | <center>**모두를 위한 컴퓨팅사고**</center> |<center>finish</center>|
+|<center>2021.07.10<center> | <center>**부스트코스 - 웹 프로그래밍(풀스택)**</center> |<center>in progress:muscle:</center>|
 
 
 
