@@ -7,7 +7,7 @@ Hi. My name is Kim Siyeon. I am student developer.
 Computer Engineer
 
 :heart:Usable language\
-Sql,Java,C,
+Sql, Java, C, Python
 
 
 :heart:Activity
