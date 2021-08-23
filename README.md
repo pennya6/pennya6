@@ -44,6 +44,7 @@ Sql,Java,C,
 |<center>2021.01.15~2021.06.30<center> | <center>**Do it JAVA Algorithms**</center> |<center>finish</center>|
 |<center>2021.01.11~2021.02.26<center> | <center>**모두를 위한 컴퓨팅사고**</center> |<center>finish</center>|
 |<center>2021.07.10<center> | <center>**부스트코스 - 웹 프로그래밍(풀스택)**</center> |<center>in progress:muscle:</center>|
+|<center>2021.09.02<center> | <center>**Chatbot study**</center> |<center>in progress:muscle:</center>|
 
 
 
