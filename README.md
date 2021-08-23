@@ -55,6 +55,7 @@ Sql,Java,C,
   | <center>**2020년 한국산업정보학회 하계학술대회**</center> |<center>finish</center>|
   | <center>**2020년 한국산업정보학회 추계학술대회**</center> |<center>finish</center>|
   | <center>**코리아그래픽스 2021**</center> |<center>finish</center>|
+  | <center>**KSC2020 온라인컨퍼런스**</center> |<center>finish</center>|
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pennya6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
