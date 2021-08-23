@@ -48,8 +48,8 @@ Sql,Java,C,
 
 :heart:Convergence
   |  <center>Convergence Name</center> |  <center>Process</center> |
-  |:--------|:--------:|--------:|
-| <center>**How to write a CHI papter? 워크숍**</center> |<center>finish</center>|
+  |:--------|:--------:|
+  | <center>**How to write a CHI papter? 워크숍**</center> |<center>finish</center>|
   | <center>**Software Convergence Symposium(SWCS 2020)**</center> |<center>finish</center>|
   | <center>**ICT Convergence Korea 2020**</center> |<center>finish</center>|
   | <center>**2020년 한국산업정보학회 하계학술대회**</center> |<center>finish</center>|
