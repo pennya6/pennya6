@@ -47,6 +47,8 @@ Sql,Java,C,
 |<center>2021.09.02<center> | <center>**Chatbot study**</center> |<center>in progress:muscle:</center>|
 
 :heart:Convergence
+  |  <center>Convergence Name</center> |  <center>Process</center> |
+  |:--------|:--------:|--------:|
 | <center>**How to write a CHI papter? 워크숍**</center> |<center>finish</center>|
   | <center>**Software Convergence Symposium(SWCS 2020)**</center> |<center>finish</center>|
   | <center>**ICT Convergence Korea 2020**</center> |<center>finish</center>|
