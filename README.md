@@ -46,7 +46,13 @@ Sql,Java,C,
 |<center>2021.07.10<center> | <center>**부스트코스 - 웹 프로그래밍(풀스택)**</center> |<center>in progress:muscle:</center>|
 |<center>2021.09.02<center> | <center>**Chatbot study**</center> |<center>in progress:muscle:</center>|
 
-
+:heart:Convergence
+| <center>**How to write a CHI papter? 워크숍**</center> |<center>finish</center>|
+  | <center>**Software Convergence Symposium(SWCS 2020)**</center> |<center>finish</center>|
+  | <center>**ICT Convergence Korea 2020**</center> |<center>finish</center>|
+  | <center>**2020년 한국산업정보학회 하계학술대회**</center> |<center>finish</center>|
+  | <center>**2020년 한국산업정보학회 추계학술대회**</center> |<center>finish</center>|
+  | <center>**코리아그래픽스 2021**</center> |<center>finish</center>|
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pennya6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
