@@ -10,6 +10,17 @@ Computer Engineer
 Sql, Java, C, Python
 
 
+:heart:Convergence
+  |  <center>Convergence Name</center> |  <center>Process</center> |
+  |:--------|:--------:|
+  | <center>**How to write a CHI papter? 워크숍**</center> |<center>finish</center>|
+  | <center>**Software Convergence Symposium(SWCS 2020)**</center> |<center>finish</center>|
+  | <center>**ICT Convergence Korea 2020**</center> |<center>finish</center>|
+  | <center>**2020년 한국산업정보학회 하계학술대회**</center> |<center>finish</center>|
+  | <center>**2020년 한국산업정보학회 추계학술대회**</center> |<center>finish</center>|
+  | <center>**코리아그래픽스 2021**</center> |<center>finish</center>|
+  | <center>**KSC2020 온라인컨퍼런스**</center> |<center>finish</center>|
+
 :heart:Activity
 |  <center>Year</center> |  <center>Activity Name</center> | <center>Process</center> |
 |:--------|:--------:|--------:|
@@ -35,7 +46,7 @@ Sql, Java, C, Python
 |<center>2021.02.15~2021.02.22 <center>|**한신 ABC 캠프 공모전** |<center>finish:trophy:<center>|
 |<center>2021.05.01~2021.05.30 <center>|**한신대학교 AI, 빅데이터 활용 공모전-분리수거** |<center>finish:trophy:<center>|
 |<center>2021.03.01~2021.06.01 <center>|**database programming - cgv_hs** |<center>finish<center>|
-|<center>2021.07.02~<center>|**한신대학교 여름하계프로젝트 - spring mvc을 이용한 웹 페이지 구축** |<center>in progress:muscle:<center>|
+|<center>2021.07.02~<center>|**한신대학교 여름하계프로젝트 - spring mvc을 이용한 웹 페이지 구축** |<center>finish<center>|
 |<center>2021.07.26~<center>|**TLB Project** |<center>in progress:muscle:<center>|  
   
 :heart:Study
@@ -44,18 +55,10 @@ Sql, Java, C, Python
 |<center>2021.01.15~2021.06.30<center> | <center>**Do it JAVA Algorithms**</center> |<center>finish</center>|
 |<center>2021.01.11~2021.02.26<center> | <center>**모두를 위한 컴퓨팅사고**</center> |<center>finish</center>|
 |<center>2021.07.10<center> | <center>**부스트코스 - 웹 프로그래밍(풀스택)**</center> |<center>in progress:muscle:</center>|
+|<center>2021.08.30<center> | <center>**핸즈온 2판 요약 정리(머신러닝/딥러닝)**</center> |<center>in progress:muscle:</center>|
 |<center>2021.09.02<center> | <center>**Chatbot study**</center> |<center>in progress:muscle:</center>|
 
-:heart:Convergence
-  |  <center>Convergence Name</center> |  <center>Process</center> |
-  |:--------|:--------:|
-  | <center>**How to write a CHI papter? 워크숍**</center> |<center>finish</center>|
-  | <center>**Software Convergence Symposium(SWCS 2020)**</center> |<center>finish</center>|
-  | <center>**ICT Convergence Korea 2020**</center> |<center>finish</center>|
-  | <center>**2020년 한국산업정보학회 하계학술대회**</center> |<center>finish</center>|
-  | <center>**2020년 한국산업정보학회 추계학술대회**</center> |<center>finish</center>|
-  | <center>**코리아그래픽스 2021**</center> |<center>finish</center>|
-  | <center>**KSC2020 온라인컨퍼런스**</center> |<center>finish</center>|
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pennya6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
