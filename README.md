@@ -32,7 +32,7 @@ Sql, Java, C, Python
   |<center>2021.03.01~2021.06.16<center> | <center>**모바일 웹 프로그래밍 실습 조교**</center> |<center>finish</center>|
 |<center>2021.04.01~2021.06.28<center> | <center>**HCI .Lab 학부연구생**</center> |<center>finish</center>|
 |<center>2021.05.01~2021.12.31<center> | <center>**한신대학교 모니터링 기자단**</center> |<center>in progress:muscle:</center>|
-|<center>2021.06.28~<center>|**데이터청년캠퍼스 - 경기대학교 산업빅데이터 분석 전문가 과정** |<center>in progress:muscle:<center>|
+|<center>2021.06.28~<center>|**데이터청년캠퍼스 - 경기대학교 산업빅데이터 분석 전문가 과정** |<center>finish<center>|
 
 :heart:Project   
 |  <center>Year</center> |  <center>Project Name</center> |  <center>Process</center> |
@@ -47,7 +47,7 @@ Sql, Java, C, Python
 |<center>2021.05.01~2021.05.30 <center>|**한신대학교 AI, 빅데이터 활용 공모전-분리수거** |<center>finish:trophy:<center>|
 |<center>2021.03.01~2021.06.01 <center>|**database programming - cgv_hs** |<center>finish<center>|
 |<center>2021.07.02~<center>|**한신대학교 여름하계프로젝트 - spring mvc을 이용한 웹 페이지 구축** |<center>finish<center>|
-|<center>2021.07.26~<center>|**TLB Project** |<center>in progress:muscle:<center>|  
+|<center>2021.07.26~<center>|**TLB Project** |<center>finish - 최종 4등 <center>|  
   
 :heart:Study
 |  <center>Year</center> |  <center>Study Name</center> |  <center>Process</center> |
