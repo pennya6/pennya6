@@ -57,6 +57,7 @@ Sql, Java, C, Python
 |<center>2021.07.10<center> | <center>**부스트코스 - 웹 프로그래밍(풀스택)**</center> |<center>in progress:muscle:</center>|
 |<center>2021.08.30<center> | <center>**핸즈온 2판 요약 정리(머신러닝/딥러닝)**</center> |<center>in progress:muscle:</center>|
 |<center>2021.09.02<center> | <center>**Chatbot study**</center> |<center>in progress:muscle:</center>|
+|<center>2021.08.31~2021.09.06<center> | <center>**인공지능 학습용 데이터 라벨링 전문 교육 - 기본과정**</center> |<center>in progress:muscle:</center>|
 
 
 
