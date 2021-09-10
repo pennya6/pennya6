@@ -1,6 +1,7 @@
 
 
-Hi. My name is Kim Siyeon. I am student developer.   
+Hi. My name is Kim Siyeon.  
+I am student developer.   
 
 
 :heart:Major\
