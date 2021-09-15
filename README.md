@@ -5,7 +5,7 @@ I am student developer.
 
 
 :heart:Major\
-Computer Engineer
+Computer Engineering
 
 :heart:Usable language\
 Sql, Java, C, Python
