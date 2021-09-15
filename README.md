@@ -21,17 +21,18 @@ Sql, Java, C, Python
   | <center>**2020년 한국산업정보학회 추계학술대회**</center> |<center>finish</center>|
   | <center>**코리아그래픽스 2021**</center> |<center>finish</center>|
   | <center>**KSC2020 온라인컨퍼런스**</center> |<center>finish</center>|
+  | <center>**CHI 2021 Review Seminar Online **</center> |<center>not yet</center>|
+
 
 :heart:Activity
 |  <center>Year</center> |  <center>Activity Name</center> | <center>Process</center> |
 |:--------|:--------:|--------:|
 |<center>2019<center> | <center>**한신대학교 사회봉사단 HAHA**</center> |<center>finish</center>|
-|<center>2020.05.01~2021.02.28<center> | <center>**HCI .Lab 학부연구생**</center> |<center>finish</center>|
+|<center>2020.05.01~<center> | <center>**HCI .Lab 학부연구생**</center> |<center>in progress:muscle:</center>|
 |<center>2020.09.01~2020.12.15<center> | <center>**한신대학교 취업서포터즈활동**</center> |<center>finish</center>|
 |<center>2020.09.01~2021.02.22<center>|**한신대학교 모니터링단 교육혁신사업부 활동** <center>|<center>finish</center>|
 |<center>2021.01.11~2021.02.26<center> | <center>**CS50 study https://bit.ly/3isOYRH**</center> |<center>finish</center>|
   |<center>2021.03.01~2021.06.16<center> | <center>**모바일 웹 프로그래밍 실습 조교**</center> |<center>finish</center>|
-|<center>2021.04.01~<center> | <center>**HCI .Lab 학부연구생**</center> |<center>in progress:muscle:</center>|
 |<center>2021.05.01~2021.12.31<center> | <center>**한신대학교 모니터링 기자단**</center> |<center>in progress:muscle:</center>|
 |<center>2021.06.28~2021.09.03<center>|**데이터청년캠퍼스 - 경기대학교 산업빅데이터 분석 전문가 과정** |<center>finish<center>|
 
