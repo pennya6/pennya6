@@ -21,7 +21,7 @@ Sql, Java, C, Python
   | <center>**2020년 한국산업정보학회 추계학술대회**</center> |<center>finish</center>|
   | <center>**코리아그래픽스 2021**</center> |<center>finish</center>|
   | <center>**KSC2020 온라인컨퍼런스**</center> |<center>finish</center>|
-  | <center>**CHI 2021 Review Seminar Online **</center> |<center>not yet</center>|
+  | <center>**CHI 2021 Review Seminar Online**</center> |<center>not yet</center>|
 
 
 :heart:Activity
