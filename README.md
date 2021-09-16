@@ -49,7 +49,8 @@ Sql, Java, C, Python
 |<center>2021.05.01~2021.05.30 <center>|**한신대학교 AI, 빅데이터 활용 공모전-분리수거** |<center>finish:trophy:<center>|
 |<center>2021.03.01~2021.06.01 <center>|**database programming - cgv_hs** |<center>finish<center>|
 |<center>2021.07.02~2021.08.31<center>|**한신대학교 여름하계프로젝트 - spring mvc을 이용한 웹 페이지 구축** |<center>in progress:muscle:<center>|
-|<center>2021.07.26~2021.09.03<center>|**TLB Project** |<center>finish:trophy:<center>|  
+|<center>2021.07.26~2021.09.03<center>|**TLB Project(PCB 공정 데이터를 활용한 
+Smart Factory 인공지능 알림 정비 시스템 구축)** |<center>finish:trophy:<center>|  
   |<center>2021.09.12~<center>|**CJ대한통운 미래기술 챌린지** |<center>in progress:muscle:<center>|  
   
 :heart:Study
