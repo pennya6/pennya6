@@ -13,7 +13,7 @@ Sql, Java, C, Python
 
 :heart:Convergence
   |  <center>Convergence Name</center> |  <center>Process</center> |
-  |:--------|--------:|
+  |:--------:|:--------:|
   | <center>**How to write a CHI papter? 워크숍**</center> |<center>finish</center>|
   | <center>**Software Convergence Symposium(SWCS 2020)**</center> |<center>finish</center>|
   | <center>**ICT Convergence Korea 2020**</center> |<center>finish</center>|
@@ -26,7 +26,7 @@ Sql, Java, C, Python
 
 :heart:Activity
 |  <center>Year</center> |  <center>Activity Name</center> | <center>Process</center> |
-|:--------|:--------:|--------:|
+|:--------:|:--------:|:--------:|
 |<center>2019<center> | <center>**한신대학교 사회봉사단 HAHA**</center> |<center>finish</center>|
 |<center>2020.05.01~<center> | <center>**HCI .Lab 학부연구생**</center> |<center>in progress:muscle:</center>|
 |<center>2020.09.01~2020.12.15<center> | <center>**한신대학교 취업서포터즈활동**</center> |<center>finish</center>|
@@ -38,7 +38,7 @@ Sql, Java, C, Python
 
 :heart:Project   
 |  <center>Year</center> |  <center>Project Name</center> |  <center>Process</center> |
-|:--------|:--------:|--------:|
+|:--------:|:--------:|:--------:|
 |<center>2020.03.15<center> | <center>**WISET ICT team project-IT계열 취업을 희망하는 여성을 위한 취업 애플리케이션**</center> |<center>finish</center>|
 |<center>2020.08.24<center> | <center>**비의도적 접근에 안전한 스마트워치 잠금 화면 설계 및 구현**</center> |<center>finish</center>|
 |<center>2020.09.03~2020.12.18 <center>|**아이와 부모를 위한 워치페이스 컴플리케이션 설계 및 구현** |<center>finish:trophy:<center>|
