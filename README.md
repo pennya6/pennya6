@@ -11,7 +11,7 @@ Computer Engineering
 Sql, Java, C, Python
 
 
-:heart:Convergence
+:heart:conference
   |  <center>Convergence Name</center> |  <center>Process</center> |
   |:--------:|:--------:|
   | <center>**How to write a CHI papter? 워크숍**</center> |<center>finish</center>|
