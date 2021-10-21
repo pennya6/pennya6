@@ -51,7 +51,7 @@ Sql, Java, C, Python
 |<center>2021.07.02~<center>|**Spring MVC을 이용한 웹 페이지 구축** |<center>in progress:muscle:<center>|
 |<center>2021.07.26~2021.09.03<center>|**TLB Project- PCB 공정 데이터를 활용한 Smart Factory 인공지능 알림 정비 시스템 구축** |<center>finish:trophy:<center>|  
 |<center>2021.09.12~<center>|**CJ대한통운 미래기술 챌린지** |<center>in progress:muscle:<center>|
-|<center>2021.09.02~<center>|**ERTI Open API 활용사례 공모전** |<center>in progress:muscle:<center>|
+|<center>2021.09.02~2021.10.18<center>|**ERTI Open API 활용사례 공모전** |<center>finish<center>|
   
 :heart:Study
 |  <center>Year</center> |  <center>Study Name</center> |  <center>Process</center> |
