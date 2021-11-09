@@ -3,6 +3,7 @@
 ### Hi. My name is Kim Siyeon.  
 I am student developer.   
 
+email : pennya6@hs.ac.kr
 
 :heart:Major\
 Computer Engineering
