@@ -2,7 +2,7 @@
 
 ### Hi. My name is Kim Siyeon.  
 I am student developer.   
-If you want to contact me, please email me.
+If you want to contact me, please email.
 
 email : pennya6@hs.ac.kr
 
