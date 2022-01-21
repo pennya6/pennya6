@@ -10,7 +10,7 @@ email : pennya6@hs.ac.kr
 Computer Engineering
 
 :heart:Usable language\
-Sql, Java, C, Python
+Sql, Java, Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pennya6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
