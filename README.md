@@ -5,7 +5,8 @@ I am student developer.
 If you want to contact me, please email.
 
 email : pennya6@hs.ac.kr  
-CV : [CV.pdf](https://github.com/pennya6/pennya6/files/8244146/CV.pdf)
+CV : [CV.pdf](https://github.com/pennya6/pennya6/files/8560245/CV.pdf)
+
 
 
 :heart:Major\
