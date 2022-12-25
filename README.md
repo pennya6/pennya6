@@ -5,7 +5,7 @@ I am student computer engineer.
 If you want to contact me, please email.
 
 email : pennya6@hs.ac.kr  
-CV : [CV.pdf](https://github.com/pennya6/pennya6/files/8560245/CV.pdf)  
+CV : [CV.pdf](https://github.com/pennya6/pennya6/files/10300782/Resume.1.pdf)  
 velog : https://velog.io/@pennya6
 
 
