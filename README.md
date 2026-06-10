@@ -1,10 +1,10 @@
 
 
 ### Hi. My name is Kim Siyeon.  
-I am KT IS computer engineer.   
+I am AI IT engineer.   
 If you want to contact me, please email.
 
-email : penny.kim@kt.com  
+email : siyeon.kim@lotte.net
 CV : [CV.pdf](https://github.com/pennya6/pennya6/files/10481158/Resume.pdf)  
 velog : https://velog.io/@pennya6
 
