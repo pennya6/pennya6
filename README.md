@@ -4,8 +4,8 @@
 I am AI IT engineer.   
 If you want to contact me, please email.
 
-email : siyeon.kim@lotte.net
-CV : [CV.pdf](https://github.com/pennya6/pennya6/files/10481158/Resume.pdf)  
+email : siyeon.kim@lotte.net  
+CV : [Resume_SiYEONKIM.pdf](https://github.com/user-attachments/files/28781122/Resume_SiYEONKIM.pdf)  
 velog : https://velog.io/@pennya6
 
 
