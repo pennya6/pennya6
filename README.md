@@ -12,7 +12,7 @@
 | 🏰 *Affiliation* |🎠롯데월드 (Lotte World)🎠 |
 | 📧 *Email* | siyeon.kim@lotte.net |
 | 📝 *Velog* | https://velog.io/@pennya6 |
-| 📄 *CV* | Resume_SiYEONKIM.pdf |
+| 📄 *CV* | [Resume_SiYEONKIM.pdf](https://github.com/user-attachments/files/28781122/Resume_SiYEONKIM.pdf) |
 | 🎓 *Major* | Computer Engineering |
 
 ---
